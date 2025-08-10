@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/api/category-options/route": "app/api/category-options/route.js",
+  "/api/profile-projects/route": "app/api/profile-projects/route.js",
+  "/api/projects/[projectId]/route": "app/api/projects/[projectId]/route.js",
+  "/api/projects/route": "app/api/projects/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/add-project/page": "app/add-project/page.js",
+  "/edit/[projectId]/page": "app/edit/[projectId]/page.js",
+  "/manage-categories/page": "app/manage-categories/page.js",
+  "/login/page": "app/login/page.js",
+  "/manage-projects/page": "app/manage-projects/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/page": "app/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/super-admin/page": "app/admin/super-admin/page.js"
+}
