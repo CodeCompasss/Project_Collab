@@ -8,11 +8,11 @@
   "/favicon.ico/route": "app/favicon.ico/route.js",
   "/add-project/page": "app/add-project/page.js",
   "/edit/[projectId]/page": "app/edit/[projectId]/page.js",
-  "/manage-categories/page": "app/manage-categories/page.js",
   "/login/page": "app/login/page.js",
+  "/manage-categories/page": "app/manage-categories/page.js",
   "/manage-projects/page": "app/manage-projects/page.js",
-  "/profile/page": "app/profile/page.js",
   "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
   "/admin/page": "app/admin/page.js",
   "/admin/super-admin/page": "app/admin/super-admin/page.js"
 }

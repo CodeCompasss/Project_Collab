@@ -8,11 +8,11 @@
   "/favicon.ico/route": "/favicon.ico",
   "/add-project/page": "/add-project",
   "/edit/[projectId]/page": "/edit/[projectId]",
-  "/manage-categories/page": "/manage-categories",
   "/login/page": "/login",
+  "/manage-categories/page": "/manage-categories",
   "/manage-projects/page": "/manage-projects",
-  "/profile/page": "/profile",
   "/page": "/",
+  "/profile/page": "/profile",
   "/admin/page": "/admin",
   "/admin/super-admin/page": "/admin/super-admin"
 }
